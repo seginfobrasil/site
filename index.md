@@ -1,6 +1,3 @@
-----
-title:  "Reformados"
-----
 # Regras do grupo
 
 1. Conversar com áudio é proibido, motivos:
