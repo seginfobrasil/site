@@ -10,4 +10,4 @@
   * Podemos conversar sobre tudo, desde que o assunto conversado esteja debaixo da proposta do grupo. Ou seja, debates políticos, de time de futebol ou quaqluer outro assunto que julgam ser polêmicos podem ser debatidos desde que seja sob a ótica do grupo.
 
 ## Dados
-* Link: https://t.me/Reformados
+* Link: [https://t.me/Reformados](https://t.me/Reformados)
