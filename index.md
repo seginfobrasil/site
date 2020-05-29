@@ -12,4 +12,4 @@
   * Qualquer tipo de pirataria é inaceitável no grupo. Prezamos por respeito as intensões de autores que desejam que suas publicações sejam pagas. Apenas poste no grupo material que seja de domínio público.
 
 ## Dados
-* Link: [https://t.me/Reformados](https://t.me/Reformados)
+* Link: [https://t.me/SegInfoBRasil](https://t.me/SegInfoBRasil)
