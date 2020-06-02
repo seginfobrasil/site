@@ -10,6 +10,12 @@
   * Podemos conversar sobre tudo, desde que o assunto conversado esteja debaixo da proposta do grupo. Ou seja, debates políticos, de time de futebol ou qualquer outro assunto que julgam ser polêmicos podem ser debatidos desde que seja sob a ótica do grupo.
 4. Pirataria.
   * Qualquer tipo de pirataria é inaceitável no grupo. Prezamos por respeito as intensões de autores que desejam que suas publicações sejam pagas. Apenas poste no grupo material que seja de domínio público.
+5. Ajude a indústria a tornar-se um lugar melhor  
+  * Convide a comunidade para seu ambiente de trabalho
+  * Compartilhe seus problemas, traga casos de estudo
+  * Convide os colegas de trabalho a participarem da comunidade, divulgue-a
+  * Ao compartilhar uma oferta de emprego, divulgue a remuneração: normalmente as companhias evitam disponibilizar tais valores para contratar a oferta mais baixa do mercado. Quebre este ciclo
+
 
 ## Dados
 * Link: [https://t.me/SegInfoBRasil](https://t.me/SegInfoBRasil)
